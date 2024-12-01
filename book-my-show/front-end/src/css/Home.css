@@ -1,0 +1,40 @@
+.select_movie_contsiner{
+    flex-grow: 1;
+    margin: 30px auto;
+    padding: 30px 30px 0px 30px;
+    background-color: #f0eaea;
+    border: 1px solid black;
+    color: #fff;
+    box-shadow: 5px 5px 5px rgba(199, 207,224,0.999);
+}
+
+.select_movie_contsiner{
+    flex-grow: 1;
+}
+
+.BN-btn{
+    padding: 10px;
+    border: none;
+    margin-top: 20px;
+    left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    front-size: 25px;
+    color: rgb(5,5,5);
+    font-weight: bold;
+    background-color: rgb(238,239,241);
+    border: 2px solid rgb(10,10,10);
+    position: relative;
+}
+
+.BN-btn:hover{
+    background-color: rgba(255,0,55,0.664);
+    color: #fff;
+}
+
+.wrapper{
+    disply:flex;
+    flex-grow:0;
+     overflow: visible;
+
+}

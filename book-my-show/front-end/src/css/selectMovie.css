@@ -1,0 +1,13 @@
+.SM_heading{
+    width:100;
+    front-size: 22px;
+    color: black;
+}
+
+.SM_main_container{
+    wisth: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap:wrap;
+    margin-bottom: 20px;
+}
